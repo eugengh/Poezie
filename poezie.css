@@ -1,0 +1,26 @@
+.parent{
+    background-color: gray;
+    width: 400px;   
+    margin: auto;
+    margin-top:150px
+}
+.stofe{
+    text-align: center;
+    font-family: Arial;
+    font-size:20px
+}
+#primas{
+    background:#004C99;
+    width: fit-content;
+    margin:auto
+}
+#doua{
+    background:yellow;
+    width: fit-content;
+    margin:auto
+}
+#treia{
+    background-color: red;
+    width: fit-content;
+    margin:auto
+}
